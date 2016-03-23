@@ -2,7 +2,7 @@ nvALT Toolkit
 
 install
 
-[download]() and click to install
+[download](https://github.com/cdpath/nvALT/blob/master/workflows/nvALT_zh.alfredworkflow?raw=true) and click to install
 
 usage
 ```
